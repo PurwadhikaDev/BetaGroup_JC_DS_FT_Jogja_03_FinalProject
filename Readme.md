@@ -11,15 +11,15 @@ To get this project, you can clone it by running the following code:
 
 ## Folder Organization
 
-├── README.md                 <- The top-level README for using this project.
-│
-├── docs                      <- The document will consist of a detailed presentation or images.
-│
-├── src                       <- Source code for use in this project.       
-│
-├── model                     <- Document contains modeling result files in Pickle format.
-│   
-└── requirements.txt          <- The requirements file for reproducing the environment.
+    ├── README.md                 <- The top-level README for using this project.
+    │
+    ├── docs                      <- The document will consist of a detailed presentation or images.
+    │
+    ├── src                       <- Source code for use in this project.       
+    │
+    ├── model                     <- Document contains modeling result files in Pickle format.
+    │   
+    └── requirements.txt          <- The requirements file for reproducing the environment.
                                 Generated using `pip freeze > requirements.txt`
 
 ## URL Jupyter Notebook
