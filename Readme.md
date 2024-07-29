@@ -24,7 +24,7 @@ To get this project, you can clone it by running the following code:
 
 ## URL Jupyter Notebook
 > [!important]
-> Due to the limitations of GitHub, some analysis results in modeling cannot be displayed in the repository. To view the analysis results in Jupyter Notebook, please visit the [following link](). 
+> Due to the limitations of GitHub, some analysis results in modeling cannot be displayed in the repository. To view the analysis results in Jupyter Notebook, please visit the [following link](https://nbviewer.org/github/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_03_FinalProject/blob/main/src/Hotel_Booking_Demand_Modeling.ipynb). 
 
 ## Kontribusi
 
